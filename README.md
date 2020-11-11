@@ -27,7 +27,7 @@ $ npm run dev
 $ python src/app.py
 ```
 
-3. `localhost:8080` へアクセスすると，占いのできるWebアプリが遊べる
+3. `localhost:8080/home` へアクセスすると，占いのできるWebアプリが遊べる
 
 # つまづいたところ
 
